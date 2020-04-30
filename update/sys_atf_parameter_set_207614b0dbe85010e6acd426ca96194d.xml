@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>First name = Armond
+Last name = Rizzo
+Role = x_58872_needit.needit_user</description>
+        <order>4</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 13:14:50</sys_created_on>
+        <sys_id>207614b0dbe85010e6acd426ca96194d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>4</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_207614b0dbe85010e6acd426ca96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 14:02:15</sys_updated_on>
+        <test display_value="Create NeedIt module">16855c70dbe85010e6acd426ca961957</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=207614b0dbe85010e6acd426ca96194d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>207614b0dbe85010e6acd426ca96194d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 13:14:50</sys_created_on>
+        <sys_id>118698b0dbe85010e6acd426ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:14:50</sys_updated_on>
+        <value>4e42fb8d0fa83200cd674f8ce1050e72</value>
+        <variable display_value="">970614b0dbe85010e6acd426ca9619b4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>207614b0dbe85010e6acd426ca96194d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 13:14:50</sys_created_on>
+        <sys_id>1d86d0b0dbe85010e6acd426ca961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:14:50</sys_updated_on>
+        <value>Armond</value>
+        <variable display_value="">67b5dc70dbe85010e6acd426ca9619b3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>207614b0dbe85010e6acd426ca96194d</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-30 13:14:50</sys_created_on>
+        <sys_id>d18698b0dbe85010e6acd426ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 13:14:50</sys_updated_on>
+        <value>Rizzo</value>
+        <variable display_value="">23e590b0dbe85010e6acd426ca9619ba</variable>
+    </sys_variable_value>
+</record_update>
